@@ -21,7 +21,7 @@
 
 <div align="center">
 <h3>Discord Activity</h3>
-   <a href="https://discord.com/users/271688563568017418" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/271688563568017418?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
+   <a href="https://discord.com/users/243108925593878528" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/243108925593878528?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
    </a>
 </div>
