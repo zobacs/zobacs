@@ -1,4 +1,4 @@
-[![zobacs](https://media.discordapp.net/attachments/914176444656132218/981669205252374609/a_42617e08ddcd3e7d9b03233ffb75101e.gif?width=324&height=130)](https://discord.com/users/271688563568017418)
+[![1iws](https://cdn.discordapp.com/avatars/243108925593878528/f1d023db2b839fca741eff139c21d292.webp?size=128)](https://discord.com/users/243108925593878528)
 
 <div align="center">
 <h3>Contact İnformation</h3>
