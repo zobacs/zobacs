@@ -2,7 +2,7 @@
 
 <div align="center">
 <h3>Contact İnformation</h3>
-<a href="https://discord.com/users/271688563568017418" target"blank_"><img src="https://img.shields.io/badge/weizs%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/243108925593878528" target"blank_"><img src="https://img.shields.io/badge/weizs%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/43tnlxnxtxlnmdkuseiv7xp8u?si=aUCZmDgvSueaQH-zoq5FWQ" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://github.com/zobacs" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
